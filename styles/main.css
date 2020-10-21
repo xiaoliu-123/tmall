@@ -1,0 +1,20 @@
+/* 公共样式 */
+*{
+  margin:0px;
+  padding:0px;
+}
+body{
+    background-color: #F5F5F5;
+} 
+article,nav,footer,header,aside,section,img,address{
+    display:block;
+}
+a{
+    text-decoration:none;
+}
+img{
+    border:none;
+}
+li{
+    list-style:none;
+}
